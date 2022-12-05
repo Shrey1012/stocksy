@@ -1,0 +1,37 @@
+.text {
+  position: absolute;
+  width: 1396px;
+  height: 210px;
+  left: 1142px;
+  top: 399px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 65px;
+  letter-spacing: -0.025em;
+  color: #fcfcff;
+}
+
+span:nth-child(2){
+  font-size: 64px;
+  top: 525px;
+}
+
+.text2 {
+  position: absolute;
+  width: 732px;
+  height: 65px;
+  left: 1262px;
+  top: 720px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 65px;
+  text-align: center;
+  letter-spacing: -0.025em;
+  color: #f3b125;
+}
+

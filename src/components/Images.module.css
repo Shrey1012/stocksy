@@ -1,0 +1,40 @@
+.logo {
+    position: absolute;
+    width: 408.51px;
+    height: 125px;
+    left: 61px;
+    top: 57px;
+}
+
+.illustration {
+    position: absolute;
+width: 872px;
+height: 880px;
+left: 224px;
+top: 241px;
+}
+
+.img1{
+    position: absolute;
+width: 103.88px;
+height: 79.81px;
+left: 192px;
+top: 872.85px;
+transform: rotate(-23.75deg);
+}
+
+.img2{
+    position: absolute;
+width: 76px;
+height: 101px;
+left: 202px;
+top: 533px;
+}
+
+.img3{
+    position: absolute;
+width: 105px;
+height: 96px;
+left: 607px;
+top: 902px;
+}

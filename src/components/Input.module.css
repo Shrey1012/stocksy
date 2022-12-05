@@ -1,0 +1,63 @@
+.phone {
+  box-sizing: border-box;
+  position: absolute;
+  width: 779px;
+  height: 88px;
+  left: 1265px;
+  top: 814px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(220, 220, 220, 0.71) 0%,
+    #ffffff 100%
+  );
+  border: 1px solid #9e3af4;
+  border-radius: 20px;
+}
+
+.text3 {
+  position: absolute;
+  width: 257px;
+  height: 37px;
+  left: 51px;
+  top: 25px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  color: #000000;
+}
+
+.link {
+  box-sizing: border-box;
+  position: absolute;
+  width: 202px;
+  height: 88px;
+  left: 1842px;
+  top: 814px;
+  background: linear-gradient(
+    180deg,
+    rgba(158, 58, 244, 0.71) 0%,
+    #542c7e 100%
+  );
+  border: 1px solid #9e3af4;
+  border-radius: 0px 20px 20px 0px;
+}
+
+.text4 {
+  position: absolute;
+  width: 136px;
+  height: 39px;
+  left: 30px;
+  top: 24px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+  color: #ffffff;
+}

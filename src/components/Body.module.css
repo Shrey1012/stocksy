@@ -1,0 +1,52 @@
+.backGradient {
+  position: absolute;
+  width: 638px;
+  height: 651px;
+  left: 982px;
+  top: 217px;
+
+  background: rgba(158, 58, 244, 0.4);
+  filter: blur(175px);
+}
+
+.contact{
+    position: absolute;
+width: 130px;
+height: 37px;
+left: 1047px;
+top: 1282px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+
+.mail{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1244px;
+    top: 1282px;
+}
+
+.email{
+    position: absolute;
+width: 213px;
+height: 24px;
+left: 1301px;
+top: 1288px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+
+}
+
+
